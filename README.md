@@ -90,3 +90,11 @@ GitHub: https://github.com/mianhaseebnasir
 ```bash
 LinkedIn: https://www.linkedin.com/in/mianhaseebnasir/
 ```
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+## ⭐ Support
+
+If you like this project, don't forget to star the repository ⭐
