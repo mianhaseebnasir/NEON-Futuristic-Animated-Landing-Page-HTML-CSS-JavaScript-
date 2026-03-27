@@ -48,4 +48,45 @@ NEON-Landing-Page/<br>
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/neon-landing-page.git
+git clone mianhaseebnasir/NEON-Futuristic-Animated-Landing-Page-HTML-CSS-JavaScript-
+```
+
+### 2. Open Project
+
+Simply open index.html in your browser.
+
+## 📸 Sections Included
+
+- Hero Section – Eye-catching intro with CTA buttons
+- Features Section – Highlight key features with icons
+- About Section – Vision and statistics
+- Contact Section – Functional contact form UI
+- Footer – Branding and credits
+
+## 🎯 Use Cases
+
+- SaaS Landing Pages
+- Startup Websites
+- Portfolio Projects
+- Product Showcases
+
+## 📈 Future Improvements
+
+- Add backend integration for contact form
+- Improve accessibility (ARIA support)
+- Add dark/light mode toggle
+- Convert into React / Next.js version
+
+## 👨‍💻 Author
+
+**Mian Haseeb Nasir**
+
+- MERN Stack & AI Developer
+- Founder @ Nova-Stack Technologies
+```bash
+GitHub: https://github.com/mianhaseebnasir
+```
+
+```bash
+LinkedIn: https://www.linkedin.com/in/mianhaseebnasir/
+```
